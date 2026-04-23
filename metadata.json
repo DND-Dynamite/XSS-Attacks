@@ -1,0 +1,6 @@
+{
+  "name": "XSS Lab: Educational Vulnerability Simulator",
+  "description": "An educational application demonstrating Stored, Reflected, and DOM-based XSS vulnerabilities with interactive examples and security explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
